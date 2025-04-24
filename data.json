@@ -1,17 +1,12 @@
 [
     {
-        "parameter": "645",
-        "outstandingBalance": 500.00,
-        "dueDate": "2025-05-15"
+        "parameter": "123",
+        "OutstandingBalance": "1000.00",
+        "Due Date": "2025-05-01"
     },
     {
-        "parameter": "08398r9839589",
-        "outstandingBalance": 1200.50,
-        "dueDate": "2025-06-01"
-    },
-    {
-        "parameter": "6589437586732",
-        "outstandingBalance": 300.75,
-        "dueDate": "2025-05-20"
+        "parameter": "456",
+        "OutstandingBalance": "2000.00",
+        "Due Date": "2025-05-15"
     }
 ]
