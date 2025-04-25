@@ -3,10 +3,12 @@
         "parameter": "81276",
         "OutstandingBalance": "21411.85",
         "Due Date": "2025-06-01"
+       "Reason": "Account Overdraft"
     },
     {
         "parameter": "84523",
         "OutstandingBalance": "0.75",
         "Due Date": "2025-04-26"
+        "Reason": "Account Tranfer Fees"
     }
 ]
